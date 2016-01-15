@@ -1,0 +1,26 @@
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\Discord API.exe.config
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\Discord API.exe
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\Discord API.pdb
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\DiscordSharp.dll
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\Newtonsoft.Json.dll
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\websocket-sharp.dll
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\DiscordSharp.pdb
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\Newtonsoft.Json.xml
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\websocket-sharp.xml
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Debug\Discord_API.Form1.resources
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Debug\Discord_API.Properties.Resources.resources
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Debug\Discord API.csproj.GenerateResource.Cache
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Debug\Discord API.exe
+c:\users\boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Debug\Discord API.pdb
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\RedditSharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\TwitchCSharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\RestSharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\RestSharp.xml
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Debug\Discord API.csprojResolveAssemblyReference.cache
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Debug\SpeedrunComSharp.dll
+C:\Users\Boshy\Documents\Visual Studio 2015\Projects\Lizardly Bot for github\Discord API\bin\Debug\Discord API.exe.config
+C:\Users\Boshy\Documents\Visual Studio 2015\Projects\Lizardly Bot for github\Discord API\obj\Debug\Discord API.exe
+C:\Users\Boshy\Documents\Visual Studio 2015\Projects\Lizardly Bot for github\Discord API\obj\Debug\Discord API.pdb

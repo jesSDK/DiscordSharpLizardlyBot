@@ -1,0 +1,22 @@
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\Discord API.exe.config
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\Discord API.exe
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\Discord API.pdb
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\DiscordSharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\Newtonsoft.Json.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\websocket-sharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\DiscordSharp.pdb
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\Newtonsoft.Json.xml
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\websocket-sharp.xml
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Release\Discord_API.Form1.resources
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Release\Discord_API.Properties.Resources.resources
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Release\Discord API.csproj.GenerateResource.Cache
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Release\Discord API.exe
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Release\Discord API.pdb
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\obj\Release\Discord API.csprojResolveAssemblyReference.cache
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\HtmlAgilityPack.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\RedditSharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\HtmlAgilityPack.pdb
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\HtmlAgilityPack.xml
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\RestSharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\TwitchCSharp.dll
+C:\Users\Boshy\documents\visual studio 2015\Projects\Discord API\Discord API\bin\Release\RestSharp.xml
