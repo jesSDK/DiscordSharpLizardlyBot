@@ -1,1 +1,1 @@
-#A very old bot I made for friends on discord
+A very old bot I made for friends on discord
